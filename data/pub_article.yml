@@ -1,0 +1,7 @@
+PubArticle:
+  mp_login:
+    test_001:
+      mobile: "13911111111"
+      code: "246810"
+      exp_status_code: 201
+      exp_message: "OK"
